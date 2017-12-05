@@ -13,8 +13,8 @@ Bu işe kabul edildiginizde şirketlerin size çıkarttığı vize. 37.000€ ci
 RWR ilk aldığınızda 1 sene geçerli oluyor ve bu bir senede sadece sizi getiren şirkette çalışabiliyorsunuz. 1 sene biterken kartı yenilemeniz gerekiyor ve yeni verilen kart da 1 senelik oluyor. Fakat bu sefer Avusturya içinde istediğiniz şirkette çalışabiliyorsunuz. Ikinci yenilemenizde 3 senelik RWR alıyorsunuz ve üçüncü yenilemenizde eger B1 almanca sertifikasi almışsaniz 5, almamışsanız 3 senelik veriliyor.
   
 Vize işlemleri genel bilgiler Viyana belediyesi sayfasında bulabilirsiniz (Turkce):
-	https://www.wien.gv.at/tr/calismak/calismaizni.htm
-	https://www.wien.gv.at/tr/hukuk/
+* https://www.wien.gv.at/tr/calismak/calismaizni.htm
+* https://www.wien.gv.at/tr/hukuk/
 
 ### iş arama vizesi 
 Belli kriteri sağlayan beyaz yakalıların iş aramaya gelmesi için verilen 6 aylık vizedir. Ayrıntılar için (Almanca): http://www.ams.at/service-arbeitsuchende/auslaenderinnen/zugangsberechtigungen/jobseeker-visum
